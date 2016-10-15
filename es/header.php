@@ -1,6 +1,6 @@
 ﻿<?php header('Content-Type: text/html; charset=utf-8'); ?>
 <!DOCTYPE html>
-<html lang="es">
+<html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
@@ -32,63 +32,44 @@
 	<meta name="google-site-verification" content="YC5krEfiSwEJeWE3UwtVJIO4Pj_ZqtRQrs2ZvDGteHs" />
   </head>
   
-  <body class="page">
-    <a href="#content" class="sr-only">Skip to content</a> 
-    
-    <div id="navigation" class="wrapper">
+  <body class="page">    
+    <div id="navigation" >
       <div class="navbar-static-top">
-        
-        <div class="header">
-          <div class="header-inner container">
-            <div class="row">
-              <div class="col-md-8">
-                <a class="navbar-brand" href="index.php" title="Home">
-                  <h1>
-                    <img class="img-responsive" src="img/logocit2.png"/>
-                  </h1>
-                </a>
-              </div>
-              
-              <div align="right">
-                <div>
-                  <a href="http://constantinoit.com/ptbr/"><img src="img/br.png"/></a>
+        <div class="container">
+          <table width="100%" style="width:100% background-color: wine">
+		  <tr><td align="left" width="70%"><img class="img-responsive" src="img/logocit2.png" style="padding-top -15px;"/>
+		  <td align="right" width="30%"><a href="http://constantinoit.com/ptbr/"><img src="img/br.png"/></a>
                   <a href="http://constantinoit.com/en/"><img src="img/en.png"/></a>
-                  <a href="http://constantinoit.com/es/"><img src="img/es.png"/></a>
-                </div>
-              </div>
+                  <a href="http://constantinoit.com/es/"><img src="img/es.png"/></a></td></tr>
+          </table>
+		    <br/>
             </div>
           </div>
-        </div>
-		
-          <div class="container" data-toggle="clingify">
-            <div class="navbar">
-              <a class="navbar-btn" data-toggle="jpanel-menu" data-target=".navbar-collapse"> <span class="bar"></span> <span class="bar"></span> <span class="bar"></span> <span class="bar"></span> </a>
-              
-              <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
+		</div>
+          <div style="width: 100%;background-color: #000000;">
+		  		<center>
+					<ul class="nav navbar-nav dark" style="padding-left: 5%">
+					
+					 <li class="home-link">
+						<a href="index.php"><i class="fa fa-home"></i><span class="hidden">Página Inicial</span></a>
+					  </li>
+					
+					  <li>
+						<a href="sobre.php">ACERCA</a> 
+					  </li>
 
-                  <li class="home-link">
-                    <a href="index.php"><i class="fa fa-home"></i><span class="hidden">Página Inicial</span></a>
-                  </li>
-                 
-                  <li>
-                    <a href="sobre.php" class="dropdown-toggle" id="pages-drop">ACERCA</a> 
-                  </li>
+					  <li>
+						<a href="servicos.php">SERVICIOS</a> 
+					  </li>
+					
+					   <li>
+						<a href="clientes.php">CLIENTES</a> 
+					  </li>
+					  <li>
+						<a href="contato.php">CONTACTO</a> 
+					  </li>
 
-                  <li>
-                    <a href="servicos.php" class="dropdown-toggle" id="pages-drop">SERVICIOS</a> 
-                  </li>
-                
-				   <li class="dropdown">
-                    <a href="clientes.php" class="dropdown-toggle" id="more-drop">CLIENTES</a> 
-                  </li>
-				  <li class="dropdown">
-                    <a href="contato.php" class="dropdown-toggle" id="more-drop">CONTACTO</a> 
-                  </li>
-
-                </ul>
-              </div>
-            </div>
+					</ul>
+					
+				</center>
           </div>
-        </div>
-      </div>

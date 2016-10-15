@@ -21,16 +21,6 @@ include 'header.php';
 			</tr>
 		</table>
 
-		<hr size="2">
-
-        <span>Past clients</span>
-        <table width="600px">
-			<tr>
-				 <td width="50%"><img src="img/clientes/velti.png"/></td>
-			 	<td width="50%"><img src="img/clientes/edusoft.png"/></td>
-			</tr>
-		</table>
-
 
 		</div>
 		</center></div>

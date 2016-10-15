@@ -1,25 +1,21 @@
 <?php header('Content-Type: text/html; charset=utf-8'); ?>
-<footer id="footer">
         <div class="container">
           <div class="row">
             <div class="col-md-3 col">
               <div class="block contact-block">
-                <h3>
-                  Contact-us
-                </h3>
                 <address>
                   <ul class="fa-ul">
 					<li>
                       <abbr title="Phone"><i class="fa fa-li fa-phone"></i></abbr>
-					  +55 43 3523 9088
+			+55 43 3523 9088
                     </li>
                     <li>
                       <abbr title="Email"><i class="fa fa-li fa-envelope"></i></abbr>
-                      <a href="contato.php">Contate-nos</a>
+                      <a href="contato.php" style="text-decoration:none; color: black">Contate-nos</a>
                     </li>
                     <li>
                       <abbr title="Address"><i class="fa fa-li fa-home"></i></abbr>
-                       Cornelio Procopio - PR - Brasil
+                       São Paulo | Curitiba - Brasil
                     </li>
                   </ul>
                 </address>
@@ -45,7 +41,7 @@
 
            <div class="subfooter">
               <div class="col-md-6">
-                <p><a href="http://constantinoit.com.br">Constantino IT Consulting</a> | Copyright &copy; 2010-2016 </p>
+                <p><a href="http://constantinoit.com.br" style="text-decoration:none; color: black">Constantino IT Consulting</a> | Copyright &copy; 2010-2016 </p>
               </div>
               <div align="right">
                       <div>
@@ -57,7 +53,6 @@
             </div>
           </div>
         </div>
-      </footer>
       
       <script src="js/jquery.min.js"></script>
       <script src="js/jquery-migrate-1.2.1.min.js"></script>
@@ -65,7 +60,7 @@
       <script src="js/bootstrap.min.js"></script>
       
       <script src="plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.min.js"></script>
-      <script src="plugins//bootstrap-switch/build/js/bootstrap-switch.min.js"></script>
+      <script src="plugins/bootstrap-switch/build/js/bootstrap-switch.min.js"></script>
       
       <script src="plugins/prism/prism.js"></script>
       <script src="plugins/backstretch/jquery.backstretch.min.js"></script>
@@ -80,4 +75,6 @@
       
       <script src="js/script.min.js"></script>
     </body>
+	<br/>
+	<br/>
   </html>
