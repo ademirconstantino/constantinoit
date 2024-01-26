@@ -21,7 +21,7 @@
 	"footer" : {
         "telephone_number": "+39 349 002 5869",
 		"contact_us": "Contattaci",
-		"address": "Calabria - Italia",
+		"address": "Roma - Italia",
 		"copyright_notice": "Constantino IT Consulting | Copyright &copy; 2010-2022"
     },
 	"links" : {
@@ -64,7 +64,7 @@
 		"send_message" : "Invia messaggio",
 		"telephone" : " +39 349 002 5869",
 		"send_us_mail" : "Mandaci un email",
-		"location" : "Calabria - Italia",
+		"location" : "Roma - Italia",
 		"thankyou" : "Grazie per il vostro messaggio."
     }
 }
