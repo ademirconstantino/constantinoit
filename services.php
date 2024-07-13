@@ -14,19 +14,16 @@
 			  <li>
 				<a href="#fabrica">
 				  <?php echo $site["services"]["software_factory"] ?>
-				  <i class="fa fa-angle-right"></i>
 				</a>
 			  </li>
 			  <li>
 				<a href="#consultores">
 				   <?php echo $site["services"]["expert_consultants"] ?>
-				  <i class="fa fa-angle-right"></i>
 				</a>
 			  </li>
 			  <li>
 				<a href="#areas">
 				  <?php echo $site["services"]["areas_consultancy"] ?>
-				  <i class="fa fa-angle-right"></i>
 				</a>
 			  </li>
 			</ul>

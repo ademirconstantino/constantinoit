@@ -14,19 +14,16 @@
 		  <li>
 			<a href="#mission">
 			 <?php echo $site["about"]["mission"] ?>
-			  <i class="fa fa-angle-right"></i>
 			</a>
 		  </li>
 		  <li>
 			<a href="#businessinsight">
 			   <?php echo $site["about"]["business_insight"] ?>
-			  <i class="fa fa-angle-right"></i>
 			</a>
 		  </li>
 		  <li>
 			<a href="#ourvalues">
 			  <?php echo $site["about"]["our_values"] ?>
-			  <i class="fa fa-angle-right"></i>
 			</a>
 		  </li>
 		</ul>
