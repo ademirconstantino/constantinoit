@@ -21,10 +21,19 @@
 				</h3>
 				<p align="justify"><?php echo $site["home"]["desc_support_body"] ?></p>
 			  </div>
-			  <div class="feature col-sm-6">
-					 <div>
-					  <iframe src="https://player.vimeo.com/video/161127932" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-					  </div>
+			  <div class="feature col-sm-6 col-md-3">
+				<img src="img/features/feature-3.png" alt="Feature 2" class="img-responsive" />
+				<h3 class="title">
+				  <a href="#"><span class="de-em"><?php echo $site["home"]["desc_support_a"] ?></span></a>
+				</h3>
+				<p align="justify"><?php echo $site["home"]["desc_support_abody"] ?></p>
+			  </div>
+			  <div class="feature col-sm-6 col-md-3">
+				<img src="img/features/feature-4.png" alt="Feature 2" class="img-responsive" />
+				<h3 class="title">
+				  <a href="#"><span class="de-em"><?php echo $site["home"]["desc_support_b"] ?></span></a>
+				</h3>
+				<p align="justify"><?php echo $site["home"]["desc_support_bbody"] ?></p>
 			  </div>
 			</div>
 		</div>

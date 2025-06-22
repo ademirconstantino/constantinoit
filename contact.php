@@ -1,4 +1,4 @@
-﻿<?php include 'header.php'; ?>
+<?php include 'header.php';?>
 <div id="content">
 <div class="container">
   <div class="row">
@@ -37,7 +37,7 @@
 		  </p>
 		  <p>
 			<abbr title="Email"><i class="fa fa-envelope"></i></abbr>
-			<a href="mailto:ademir@constantinoit.it"><?php echo $site["contact"]["send_us_mail"] ?></a>
+			<a href="mailto:ademir@constantinoit.com"><?php echo $site["contact"]["send_us_mail"] ?></a>
 		  </p>
 		  <p>
 			<abbr title="Address"><i class="fa fa-home"></i></abbr>
@@ -48,5 +48,5 @@
 	</div>
   </div>
 </div>
-</div>
+<br/>
 <?php include 'footer.php'; ?>

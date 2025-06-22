@@ -1,6 +1,6 @@
 {
 	"header" : {
-		"website_title": "ConstantinoIT.it WebSite",
+		"website_title": "ConstantinoIT.com WebSite",
 		"website_description": "ConstantinoIt.com - Specialized company in Software Development.",
 		"google_site_verification": "YC5krEfiSwEJeWE3UwtVJIO4Pj_ZqtRQrs2ZvDGteHs"
     },
@@ -15,13 +15,18 @@
 		"desc_mobile_apps" : "Mobile Apps",
 		"desc_mobile_apps_body" : "Desenvolvemos aplicativos móveis para seu negócio utilizando-se das melhores práticas de desenvolvimento de software.",
 		"desc_support" : "24x7 Support",
-		"desc_support_body" : "Controle de servidores e aplicações em nuvem 24/7. Utilizamos os melhores conceitos e práticas de IT do mercado. Devops, automação de processos, Jenkins, Chef."
+		"desc_support_body" : "Controle de servidores e aplicações em nuvem 24/7. Utilizamos os melhores conceitos e práticas de IT do mercado. Devops, automação de processos, Jenkins, Chef.",
+		"desc_support_a": "Expertise em Nuvem",
+        "desc_support_abody": "Observabilidade usando Prometheus e Grafana para analisar a eficiência dos seus microsserviços.",
+        "desc_support_b": "Kubernetes e OpenShift",
+        "desc_support_bbody": "Nossa expertise em nuvem (profissionais certificados) pode levar sua empresa ao próximo nível usando Oracle Cloud."
+		
     },
 	"footer" : {
-        "telephone_number": "+39 349 002 5869",
+        "telephone_number": "+55 41 9 9607 5187",
 		"contact_us": "Contate-nos",
-		"address": "Roma - Italia",
-		"copyright_notice": "Constantino IT Consulting | Copyright &copy; 2010-2022"
+		"address": "Sao Paulo | Curitiba | Roma",
+		"copyright_notice": "Constantino IT Consulting | Copyright &copy; 2010-2025"
     },
 	"links" : {
         "facebook_link": "http://www.facebook.com/ConstantinoIT",
@@ -36,8 +41,8 @@
 		"our_values": "Valores",
 		"text_about_cit": "Sobre a Constantino IT Consulting",
 		"text_about_cit_body": "Tecnologia na busca por resultados.",
-		"experience": "Experiência acumulada de 15+ anos de TI.",
-		"company_details": "São duas décadas de know-how acumulado. Trabalhamos há 15 anos com TI, e durante todos estes anos, presenciamos a evolução da computação bem de perto. Hoje, temos segurança em oferecer serviços de qualidade para nossos clientes e parceiros.",
+		"experience": "Experiência acumulada de 20+ anos de TI.",
+		"company_details": "São duas décadas de know-how acumulado. Trabalhamos há 20 anos com TI, e durante todos estes anos, presenciamos a evolução da computação bem de perto. Hoje, temos segurança em oferecer serviços de qualidade para nossos clientes e parceiros.",
 		"mission_text": "Criar soluções inovadoras e implementar soluções de TI que atendam as expectativas de nossos clientes.",
 		"business_insight_text": "Ser uma empresa de TI referência a nível internacional, reconhecida pela qualidade e nível diferenciado de atendimento aos nossos clientes e parceiros.",
 		"our_values_text": "Podemos dizer que respeito, seriedade, dedicação e maturidade são valores constantes em nossa organização."
@@ -61,9 +66,9 @@
 		"email" : "E-mail",
 		"message" : "Mensagem",
 		"send_message" : "Enviar mensagem",
-		"telephone" : " +39 349 002 5869",
+		"telephone" : " +55 41 9 9607 5187",
 		"send_us_mail" : "Envie um e-mail",
-		"location" : "Roma - Italia",
+		"location" : "Sao Paulo | Curitiba | Roma",
 		"thankyou" : "obrigado por sua mensagem"
     }
 }

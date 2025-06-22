@@ -1,6 +1,6 @@
 {
 	"header" : {
-		"website_title": "ConstantinoIT.it WebSite",
+		"website_title": "ConstantinoIT.com WebSite",
 		"website_description": "ConstantinoIt.com - Specialized company in Software Development.",
 		"google_site_verification": "YC5krEfiSwEJeWE3UwtVJIO4Pj_ZqtRQrs2ZvDGteHs"
     },
@@ -16,13 +16,17 @@
 		"desc_mobile_apps" : "Mobile Apps",
 		"desc_mobile_apps_body" : "Sviluppiamo app mobili utilizzando i migliori processi e approcci IT.",
 		"desc_support" : "24x7 Support",
-		"desc_support_body" : "Utilizzando le migliori pratiche e approcci IT. Offriamo l'automazione devops con jenkins, chef e docker."
+		"desc_support_body" : "Utilizzando le migliori pratiche e approcci IT. Offriamo l'automazione devops con jenkins, chef e docker.",
+		"desc_support_a": "Competenza nel cloud",
+        "desc_support_abody": "Osservabilità con Prometheus e Grafana per analizzare l'efficienza dei tuoi microservizi.",
+        "desc_support_b": "Kubernetes e Open Shift",
+        "desc_support_bbody": "La nostra competenza nel cloud (consulenti certificati) possono portare la tua azienda al livello successivo utilizzando Oracle Cloud."
     },
 	"footer" : {
-        "telephone_number": "+39 349 002 5869",
+        "telephone_number": "+55 41 9 9607 5187",
 		"contact_us": "Contattaci",
-		"address": "Roma - Italia",
-		"copyright_notice": "Constantino IT Consulting | Copyright &copy; 2010-2022"
+		"address": "Sao Paulo | Curitiba | Roma",
+		"copyright_notice": "Constantino IT Consulting | Copyright &copy; 2010-2025"
     },
 	"links" : {
         "facebook_link": "http://www.facebook.com/ConstantinoIT",
@@ -37,8 +41,8 @@
 		"our_values": "I nostri valori",
 		"text_about_cit": "Informazioni su Constantino IT Consulting",
 		"text_about_cit_body": "Principalmente un'azienda high-tech.",
-		"experience": "Oltre 15 anni di esperienza nel settore IT ",
-		"company_details": "Ci sono due decenni di know-how. Ci lavoriamo da oltre 15 anni. In tutti questi anni abbiamo seguito l'innovazione informatica abbastanza da vicino e oggi abbiamo la sicurezza nell'offrire servizi di buona qualità ai nostri clienti.",
+		"experience": "Oltre 20 anni di esperienza nel settore IT ",
+		"company_details": "Ci sono due decenni di know-how. Ci lavoriamo da oltre 20 anni. In tutti questi anni abbiamo seguito l'innovazione informatica abbastanza da vicino e oggi abbiamo la sicurezza nell'offrire servizi di buona qualità ai nostri clienti.",
 		"mission_text": "Creare soluzioni innovative e implementare soluzioni software IT che soddisferanno le aspettative del cliente.",
 		"business_insight_text": "Essere un'azienda IT di riferimento a livello internazionale, riconosciuta per la sua qualità.",
 		"our_values_text": "Possiamo dire che rispetto, dedizione, lavoro serio e maturità sono valori costanti nella nostra organizzazione."
@@ -62,9 +66,9 @@
 		"email" : "E-mail",
 		"message" : "Messaggio",
 		"send_message" : "Invia messaggio",
-		"telephone" : " +39 349 002 5869",
+		"telephone" : " +55 41 9 9607 5187",
 		"send_us_mail" : "Mandaci un email",
-		"location" : "Roma - Italia",
+		"location" : "Sao Paulo | Curitiba | Roma",
 		"thankyou" : "Grazie per il vostro messaggio."
     }
 }
